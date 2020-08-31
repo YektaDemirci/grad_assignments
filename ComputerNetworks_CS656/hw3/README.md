@@ -1,6 +1,6 @@
 # Explanation
 ## Introduction
-For this assignment, you will implement a shortest path routing algorithm. (OSPF) for 5 routers.
+For this assignment, you will implement a shortest path routing algorithm. (OSPF). A network with 5 routers.
 ## How to compile
 Compiled with g++ ,c++11. To compile and obtain the executables just type\
 $make\

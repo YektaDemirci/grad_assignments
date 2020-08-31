@@ -1,7 +1,7 @@
 # Explanation
 ## Introduction
 Graduate level Computer Networks course, offered by Computer Science, UoWaterloo. \
-Lectures are given by Dr. Zille Huma Kamal. \
+Lectures are given by Dr. Zille Huma Kamal.
 ## Content
 * **Hw 1: TCP, UDP socket programming**
 * **Hw 2: Implementing Go-Bacn-N protocol**

@@ -3,7 +3,7 @@
 In this assignment, the client will send requests to the server to reverse strings (taken as a command
 line input) over the network using sockets. \
 This assignment uses a two stage communication process. In the negotiation stage, the client and the
-server negotiate on a random port ( <r_port> ) for later use through a fixed negotiation port ( <n_port> )
+server negotiate on a random port (<r_port>) for later use through a fixed negotiation port (<n_port>)
 of the server. Later in the transaction stage, the client connects to the server through the selected
 random port for actual data transfer. \
 ### How to compile

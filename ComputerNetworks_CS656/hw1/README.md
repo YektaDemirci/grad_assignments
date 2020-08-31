@@ -18,5 +18,5 @@ $./client.sh <server_addr> <n_port> <req_code> <msg_to_reverse>
   
 ### The machines used for test
 The client and server were both tested on `ubuntu1804-002`.Then server was tested on `ubuntu1804-002` and client was tested on  `ubuntu1804-004`, given machines at https://cs.uwaterloo.ca/cscf/internal/infrastructure/inventory/CS-TEACHING/hosts
-## Thanks!
+### Thanks!
 Yekta

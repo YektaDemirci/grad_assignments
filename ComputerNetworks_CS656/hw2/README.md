@@ -9,7 +9,5 @@ There are two executables sender and receiver. The command line inputs should be
 There should be an output file generated with the given name as <name>.txt also, ack.log, seqnum.log and arrival.log as it is explained in the handout. Also rather than sending no ACK, ACK31 is initialized at the receiver side.
 ## The machines used for test
 'ubuntu1804-004' and 'ubuntu1804-008' were used to test the code.
-## Github link
-https://github.com/YektaDemirci/CS656-assig2
 ### Thanks!
 Yekta

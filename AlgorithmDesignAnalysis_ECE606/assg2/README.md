@@ -9,7 +9,7 @@ What you need to do you need to implement three methods.
 already in t, then this method does nothing.
 * trieDelete(t, s) – deletes the string s from the trie t. If s is not in t, then this method
 does nothing.
-* trieFind (t, s) – returns True if the string s is in t, and False otherwise.
+* trieFind (t, s) – returns True if the string s is in t, and False otherwise. \
 (My solution is between 5 and 7 lines of code for each of those three methods.)
 Structure of a trie We model each node in the trie as a list of two items: (i) a list, and,
 (ii) True or False. The list (i) has four items, each corresponding to each alphabet symbol.

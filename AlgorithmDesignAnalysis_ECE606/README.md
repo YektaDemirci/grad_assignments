@@ -1,7 +1,7 @@
 # Explanation
 ## Introduction
 Graduate level Algorithm Design and Analysis course,  offered by Electrical and Computer Engineering, UoWaterloo.  \
-Lectures are given by Prof. Mahesh Tripunitara. \
+Lectures are given by Prof. Mahesh Tripunitara.
 
 ## Content of the course
 * **Lecture 1: Discrete math review.**

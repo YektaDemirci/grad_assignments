@@ -4,7 +4,8 @@ Consider the following randomized algorithm to find the median in an input array
 A[1, . . . , n] of distinct integers, where n is odd.
 Perform an expected-case analysis for the number of times Line (3) is executed.
 
-Coding task\ 
+Coding task:
+
 Empirically confirm your analytical solution to Problem (3) above via
 a python program. More specifically, first implement the above algorithm Med, but include
 in it the ability to record the number of executations of Line (3) using a counter variable. On

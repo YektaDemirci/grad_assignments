@@ -2,7 +2,7 @@
 A trie data structure is a particular kind of tree which exploits the fact
 that strings we seek to store are in an underlying alphabet. For example, suppose our alphabet
 is {0, 1, 2, 3}. And suppose we want to store the set of strings {010, 00, 0100, 210, 1231, 12}.
-Assuming 0 &lt 1 &lt 2 &lt 3 and adopting the corresponding lexicographic ordering for the
+Assuming 0 ``<`` 1 ``<`` 2 ``<`` 3 and adopting the corresponding lexicographic ordering for the
 strings, we could store those strings in a binary search tree that may look like the following. \
 What you need to do you need to implement three methods.
 * trieInsert(t, s) – inserts the string s in the alphabet {0, 1, 2, 3} into the trie t. If s is

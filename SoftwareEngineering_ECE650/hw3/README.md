@@ -1,5 +1,6 @@
+### Introduction
 This was a harsh assignment. \
-I needed to figure out;\
+I needed to figure out;
 * How many different executables are required beside the explicitly explained ones in the assignment handoud
 * How to pipe them.
 ### Explanation
